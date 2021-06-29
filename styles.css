@@ -1,0 +1,77 @@
+body {
+  background-color: #f1f1f1;
+  background-attachment:fixed;
+  background-image: url("https://picsum.photos/id/1056/3988/2720.jpg?hmac=qX6hO_75zxeYI7C-1TOspJ0_bRDbYInBwYeoy_z_h08");
+  background-repeat: no-repeat;
+  background-size:auto;
+}
+
+#midForm {
+  background-color: #ffffff;
+  margin: 100px auto;
+  padding: 20px;
+  width: 25%;
+  min-width: 300px;
+}
+
+input {
+  padding: 10px;
+  width: 100%;
+  font-size: 18px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 1px solid #aaaaaa;
+}
+
+#weather {
+  text-align: center ;
+}
+
+button {
+  background-color: #04AA6D;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+#deg {
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+
+#output {
+  text-transform: capitalize;
+  text-align: center;
+  background-color: #ffffff;
+  margin: 100px auto;
+  padding: 20px;
+  width: 25%;
+  min-width: 300px;
+}
+
+ul {
+  list-style-type: none;
+  font-weight: normal;
+  font-size: 12;
+  position: relative;
+  text-align: center;
+  padding-right: 30px;
+}
+
+li {
+  padding-top: 25px;
+}
+
+#list-of-options {
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 5px;
+}
